@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290953244625",
+    "project_id": "vidhyarthibus",
+    "storage_bucket": "vidhyarthibus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290953244625:android:a0a34f7d55c60b0463baf0",
+        "android_client_info": {
+          "package_name": "com.example.vidhyarthibus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCJ8Cjlgeyenlj3JQmCN6ar49X1rIHYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
